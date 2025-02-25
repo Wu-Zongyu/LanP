@@ -2,6 +2,7 @@
 
 [[**🌐 Project Website**](https://wu-zongyu.github.io/LanP/)] | [[**📖 arXiv**](https://arxiv.org/pdf/2502.12359)]
 
+We are mapping the used images to the links in their original datasets and will be releasing them soon. Stay tuned!
 
 This repo contains the evaluation code for our paper - LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models
 
